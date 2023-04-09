@@ -1,0 +1,6 @@
+{
+  "dependencies": { "baojs": "^0.2.1", "eventsource-parser": "^1.0.0" },
+  "devDependencies": {
+    "bun-types": "^0.2.1"
+  }
+}

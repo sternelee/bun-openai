@@ -1,0 +1,27 @@
+lockfileVersion: 5.4
+
+specifiers:
+  baojs: ^0.1.3
+  bun-types: ^0.2.1
+
+dependencies:
+  baojs: 0.1.3
+
+devDependencies:
+  bun-types: 0.2.2
+
+packages:
+
+  /baojs/0.1.3:
+    resolution: {integrity: sha512-siC393fZpyGmbJF6vr81yFBpqsEPbESLj480mZ3KQakFl8U/lLALfE8J07R+LdiFOedL1w5ActFPCkiUA7gwng==}
+    dependencies:
+      bun-types: 0.1.11
+    dev: false
+
+  /bun-types/0.1.11:
+    resolution: {integrity: sha512-a5G9LZtF5qBsDMjGnS5FfTvIeg1bS0PzI3Q2LqShEjJWdhZTB56xO8ewqZ83J+3my5rW/PPPWT/udAofRQ3zdg==}
+    dev: false
+
+  /bun-types/0.2.2:
+    resolution: {integrity: sha512-/1IPC/PPWvV39I7uulBcWHL0Xpi1BqvwF34R/2gRwt0/l5MJB1gt15GLwLP33d59EnkOdRYibImuCg0l/9BRng==}
+    dev: true
